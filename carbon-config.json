@@ -1,0 +1,12 @@
+{
+  "code": "console.log('Hello, World!');",
+  "backgroundColor": "rgba(0, 0, 0, 0)",
+  "theme": "monokai",
+  "windowControls": false,
+  "widthAdjustment": true,
+  "paddingVertical": "1rem",
+  "paddingHorizontal": "1.5rem",
+  "dropShadow": false,
+  "exportSize": "2x",
+  "exportAs": "png"
+}
