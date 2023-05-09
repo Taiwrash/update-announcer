@@ -24,7 +24,7 @@ jobs:
       - name: Generate Carbon Image
         run: |
           carbon-now --config ./carbon-config.json
-          mv out.png ./public/out.png
+          mv out.png public/out.png
 
       - name: Commit and Push Changes
         run: |
